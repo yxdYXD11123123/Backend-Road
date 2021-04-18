@@ -1,0 +1,6 @@
+package packageOne;
+
+public class Person {
+    private String name;
+
+}
