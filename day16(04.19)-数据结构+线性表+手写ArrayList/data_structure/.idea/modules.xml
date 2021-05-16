@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/01-ArrayList/01-Array-Basics/01-Array-Basics.iml" filepath="$PROJECT_DIR$/01-ArrayList/01-Array-Basics/01-Array-Basics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01-ArrayList/01-ArrayList.iml" filepath="$PROJECT_DIR$/01-ArrayList/01-ArrayList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02-LinkedList/01-Create-LinkedList/01-Create-LinkedList.iml" filepath="$PROJECT_DIR$/02-LinkedList/01-Create-LinkedList/01-Create-LinkedList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02-LinkedList/02-Add-Element-in-LinkedList/02-Add-Element-in-LinkedList.iml" filepath="$PROJECT_DIR$/02-LinkedList/02-Add-Element-in-LinkedList/02-Add-Element-in-LinkedList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01-ArrayList/02-Create-ArrayList/02-Create-ArrayList.iml" filepath="$PROJECT_DIR$/01-ArrayList/02-Create-ArrayList/02-Create-ArrayList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02-LinkedList/02-LinkedList.iml" filepath="$PROJECT_DIR$/02-LinkedList/02-LinkedList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01-ArrayList/03-Add-Element-in-ArrayList/03-Add-Element-in-ArrayList.iml" filepath="$PROJECT_DIR$/01-ArrayList/03-Add-Element-in-ArrayList/03-Add-Element-in-ArrayList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02-LinkedList/03-DummyHead-in-LinkedList/03-DummyHead-in-LinkedList.iml" filepath="$PROJECT_DIR$/02-LinkedList/03-DummyHead-in-LinkedList/03-DummyHead-in-LinkedList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03-Stack-by-ArrayList/03-Stack-by-ArrayList.iml" filepath="$PROJECT_DIR$/03-Stack-by-ArrayList/03-Stack-by-ArrayList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01-ArrayList/04-Contains-and-Remove-in-ArrayList/04-Contains-and-Remove-in-ArrayList.iml" filepath="$PROJECT_DIR$/01-ArrayList/04-Contains-and-Remove-in-ArrayList/04-Contains-and-Remove-in-ArrayList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02-LinkedList/04-Query-and-Update-in-LinkedList/04-Query-and-Update-in-LinkedList.iml" filepath="$PROJECT_DIR$/02-LinkedList/04-Query-and-Update-in-LinkedList/04-Query-and-Update-in-LinkedList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04-Stack-by-LinkedList/04-Stack-by-LinkedList.iml" filepath="$PROJECT_DIR$/04-Stack-by-LinkedList/04-Stack-by-LinkedList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01-ArrayList/05-Generic-ArrayList/05-Generic-ArrayList.iml" filepath="$PROJECT_DIR$/01-ArrayList/05-Generic-ArrayList/05-Generic-ArrayList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05-Queue-by-ArrayList/05-Queue-by-ArrayList.iml" filepath="$PROJECT_DIR$/05-Queue-by-ArrayList/05-Queue-by-ArrayList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02-LinkedList/05-Remove-in-LinkedList/05-Remove-in-LinkedList.iml" filepath="$PROJECT_DIR$/02-LinkedList/05-Remove-in-LinkedList/05-Remove-in-LinkedList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01-ArrayList/06-Dynamic-ArrayList/06-Dynamic-ArrayList.iml" filepath="$PROJECT_DIR$/01-ArrayList/06-Dynamic-ArrayList/06-Dynamic-ArrayList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06-Queue-by-LinkedList/06-Queue-by-LinkedList.iml" filepath="$PROJECT_DIR$/06-Queue-by-LinkedList/06-Queue-by-LinkedList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07-LoopQueue-by-Array/07-LoopQueue-by-Array.iml" filepath="$PROJECT_DIR$/07-LoopQueue-by-Array/07-LoopQueue-by-Array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01-ArrayList/07-More-Methods-ArrayList/07-More-Methods-ArrayList.iml" filepath="$PROJECT_DIR$/01-ArrayList/07-More-Methods-ArrayList/07-More-Methods-ArrayList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/08-LoopQueue-by-LinkedList/08-LoopQueue-by-LinkedList.iml" filepath="$PROJECT_DIR$/08-LoopQueue-by-LinkedList/08-LoopQueue-by-LinkedList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/data_structure.iml" filepath="$PROJECT_DIR$/data_structure.iml" />
+    </modules>
+  </component>
+</project>
